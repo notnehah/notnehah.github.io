@@ -9,5 +9,8 @@ export default defineConfig({
 	site: 'https://0xcheth.github.io',
 	integrations: [mdx(), sitemap()],
 	base: '/', // For root-level deployment
-
+	
 });
+
+
+
