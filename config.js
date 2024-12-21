@@ -1,3 +1,11 @@
+// Add your website or pages link eg. 'https://username.github.io'
+export const Yourweblink = {
+    SiteURL:'https://template.0xcheth.dev/',
+};
+
+// Add your website name eg. "0xcheth"
+export const Yourwebname = "Your site";
+
 // Add your full name/brand eg. John Doe
 export const Yourname = "Insert your name here";
 
